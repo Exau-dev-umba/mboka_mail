@@ -1,16 +1,16 @@
-# application_gmail_clone
+# Application Gmail cloné
 
-Nouveau projet gmail clone
+Ce n'est pas réellement gmail qu'on developpe, mais juste exemple qui pourra peut être devenir un projet d'avenir
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet est développé dans flutter 
 
-A few resources to get you started if this is your first Flutter project:
+Les resource utilisées sont:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Ecrire son premier App dans flutter](https://docs.flutter.dev/get-started/codelab)
+Il a été lancé pour la première fois dans le parcours academique d'ODC (Orange Digital Center)
+- [ODC: Le site web](https://www.orangedigitalcenters.com/country/cd/home)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Merci nous sommes très ouvert pour travailler avec vous et à la recherche de nouveaux défis et de projets passionnants et innovants.
+- [Contact: WhatsApp de l'initiateur et responsable de repository](https://wa.me/243829084314?texte=Bonjour%20monsieur)
