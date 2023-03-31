@@ -9,7 +9,7 @@ Ce projet est développé dans flutter
 Les resource utilisées sont:
 
 - [Lab: Ecrire son premier App dans flutter](https://docs.flutter.dev/get-started/codelab)
-Il a été lancé pour la première fois dans le parcours academique d'ODC (Orange Digital Center)
+- Il a été lancé pour la première fois dans le parcours academique d'ODC (Orange Digital Center)
 - [ODC: Le site web](https://www.orangedigitalcenters.com/country/cd/home)
 
 ### Merci nous sommes très ouvert pour travailler avec vous et à la recherche de nouveaux défis et de projets passionnants et innovants.
