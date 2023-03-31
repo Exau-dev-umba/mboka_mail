@@ -13,4 +13,4 @@ Il a été lancé pour la première fois dans le parcours academique d'ODC (Oran
 - [ODC: Le site web](https://www.orangedigitalcenters.com/country/cd/home)
 
 ### Merci nous sommes très ouvert pour travailler avec vous et à la recherche de nouveaux défis et de projets passionnants et innovants.
-- [Contact: WhatsApp de l'initiateur et responsable de repository](https://wa.me/243829084314?texte=Bonjour%20monsieur)
+- [Contact: WhatsApp de l'initiateur et responsable de repository](https://wa.me/message/UUMHGR24V2IKC1)
